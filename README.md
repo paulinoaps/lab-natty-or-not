@@ -1,7 +1,7 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# CÓDIGO EM MOVIMENTO — Como as IAs Generativas Podem Revolucionar a Atividade Física Entre Profissionais de TI 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 10 páginas explora o modo que IAs Generativas podem contribuir para melhor a vida das profissionais de TI e demais pessoas. 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criação de conteúdo e prompts das imagens;
@@ -9,12 +9,12 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 - Ferramenta **M365 Copilot** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para imdicar de que forma as IAs Generativas poderiam trabalhar a favor da saúde das pessoas, principalmente dis profissionais da area de TI, também o Utilizei para a criação da capa. Com i texto de cada capítulo, criei as imagens utilizando o Meta AI. E fiz a edição do documento com o App de celular M365 Copilot. 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo minimalista sobre o assunto e será um base para um trabalho mais robusto. 
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-
+Criar este material foi algo inovado pata mim e um desafio interessante. 
