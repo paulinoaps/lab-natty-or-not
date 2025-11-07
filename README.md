@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para imdicar de que forma as IAs Generativas poderiam traba
 ## 🚀 Resultados
 O e-book apresenta um conteúdo minimalista sobre o assunto e será um base para um trabalho mais robusto. 
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/paulinoaps/lab-natty-or-not/blob/main/Codigo_em_Movimento_-_Alexandre_Paulino.pdf)
 
 ## 💭 Reflexão
 Criar este material foi algo inovado pata mim e um desafio interessante. 
